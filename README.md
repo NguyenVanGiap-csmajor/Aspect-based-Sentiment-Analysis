@@ -38,8 +38,8 @@ Using a restaurant-specific dataset helps the models focus on domain-relevant as
 
 - [app.py](./app.py): Gradio demo app for Hugging Face Spaces
 - [requirements.txt](./requirements.txt): dependencies for the app
-- [Aspect-based Term Extraction.ipynb](./Aspect-based-Term-Extraction.ipynb): notebook for ABTE training and experiments
-- [Aspect-based Sentiment Analysis.ipynb](./Aspect-based-Sentiment-Analysis.ipynb): notebook for ABSA training and experiments
+- [Aspect-based Term Extraction.ipynb](<./Aspect-based Term Extraction.ipynb>): notebook for ABTE training and experiments
+- [Aspect-based Sentiment Analysis.ipynb](<./Aspect-based Sentiment Analysis.ipynb>): notebook for ABSA training and experiments
 
 ## Deployment
 
